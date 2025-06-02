@@ -1,0 +1,51 @@
+ID,Nombre del Producto,Categoría,Precio Unitario,Cantidad Vendida,Fecha de Venta,Sucursal
+1,iPhone 14,Smartphone,999.99,5,2023-01-01,Norte
+2,Galaxy Tab S8,Tablet,699.99,3,2023-01-05,Sur
+3,MacBook Air,Laptop,1299.99,2,2023-01-10,Este
+4,AirPods Pro,Accesorios,249.99,10,2023-01-15,Oeste
+5,Sony WH-1000XM5,Audio,349.99,4,2023-01-20,Centro
+6,iPhone 13,Smartphone,799.99,6,2023-02-01,Norte
+7,Xiaomi Mi Pad 6,Tablet,499.99,8,2023-02-10,Sur
+8,Dell XPS 13,Laptop,1499.99,1,2023-02-15,Este
+9,Apple Watch Series 8,Accesorios,399.99,7,2023-02-20,Oeste
+10,Bose QuietComfort 45,Audio,329.99,5,2023-02-25,Centro
+11,Google Pixel 7,Smartphone,599.99,9,2023-03-01,Norte
+12,Lenovo ThinkPad X1,Laptop,1799.99,3,2023-03-10,Sur
+13,Samsung Galaxy Buds,Accesorios,129.99,12,2023-03-15,Este
+14,Sony A7 IV,Audio,2499.99,2,2023-03-20,Oeste
+15,OnePlus 10 Pro,Smartphone,899.99,4,2023-03-25,Centro
+16,iPad Pro,Tablet,1099.99,2,2023-04-01,Norte
+17,HP Envy x360,Laptop,999.99,6,2023-04-10,Sur
+18,Beats Fit Pro,Accesorios,199.99,8,2023-04-15,Este
+19,Sennheiser HD 4.50 BT,Audio,199.99,6,2023-04-20,Oeste
+20,Google Pixel 6,Smartphone,499.99,10,2023-04-25,Centro
+21,MacBook Pro,Laptop,2399.99,1,2023-05-01,Norte
+22,Amazon Echo Dot,Accesorios,49.99,20,2023-05-05,Sur
+23,JBL Flip 6,Audio,149.99,15,2023-05-10,Este
+24,iPhone 12,Smartphone,599.99,8,2023-05-15,Oeste
+25,Xiaomi Redmi Note 11,Smartphone,299.99,12,2023-05-20,Centro
+26,Asus ZenBook 14,Laptop,899.99,4,2023-06-01,Norte
+27,Logitech G502,Accesorios,149.99,10,2023-06-05,Sur
+28,Samsung Galaxy S22,Smartphone,799.99,6,2023-06-10,Este
+29,Razer BlackWidow Lite,Accesorios,99.99,15,2023-06-15,Oeste
+30,Bose SoundLink Revolve+,Audio,399.99,5,2023-06-20,Centro
+31,iPad Air,Tablet,599.99,3,2023-07-01,Norte
+32,Lenovo Legion 5,Laptop,1299.99,2,2023-07-10,Sur
+33,Apple Pencil,Accesorios,99.99,8,2023-07-15,Este
+34,Sony SRS-XB43,Audio,299.99,6,2023-07-20,Oeste
+35,OnePlus Nord 2,Smartphone,399.99,10,2023-07-25,Centro
+36,HP Pavilion Gaming,Laptop,999.99,5,2023-08-01,Norte
+37,Google Nest Mini,Accesorios,49.99,20,2023-08-05,Sur
+38,Samsung Galaxy A53,Smartphone,399.99,12,2023-08-10,Este
+39,JBL Charge 5,Audio,199.99,10,2023-08-15,Oeste
+40,iPhone SE,Smartphone,499.99,8,2023-08-20,Centro
+41,Asus ROG Zephyrus,Laptop,1999.99,2,2023-09-01,Norte
+42,Logitech MX Master 3,Accesorios,99.99,15,2023-09-05,Sur
+43,Sennheiser Momentum 4,Audio,349.99,6,2023-09-10,Este
+44,Google Pixel 7 Pro,Smartphone,899.99,4,2023-09-15,Oeste
+45,Xiaomi Mi 12,Smartphone,699.99,10,2023-09-20,Centro
+46,Mac Mini,Laptop,999.99,3,2023-10-01,Norte
+47,Amazon Fire HD 10,Tablet,149.99,15,2023-10-05,Sur
+48,Beats Solo Pro,Audio,299.99,8,2023-10-10,Este
+49,Samsung Galaxy S21,Smartphone,699.99,6,2023-10-15,Oeste
+50,iPad Mini,Tablet,499.99,10,2023-10-20,Centro
